@@ -13,7 +13,6 @@ output/
 
 # Outputs & generated data (regenerable)
 output/
-data/welsh-dragon-small.stl
 data/random_li_polyhedra/
 data/random_be_polyhedra/
 
