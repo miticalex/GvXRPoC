@@ -1,0 +1,7 @@
+﻿# GVxR PoC — Python dependencies
+gvxr==2.1.0
+numpy>=2.0
+matplotlib>=3.8
+pillow>=10.0
+opencv-python>=4.8
+requests>=2.31

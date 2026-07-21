@@ -1,2 +1,2 @@
 # GvXRPoC
-GvXR Proof of concept
+GvXR Proof of concept — X-ray contaminant simulation on fish-fillet radiographs.
